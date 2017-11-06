@@ -1,5 +1,5 @@
 {
     "title": "Use React Router to have pages",
     "description": "Here you learn to make a React app with multiple pages with React Router.",
-    "live-view": "www/index.html"
+    "liveView": "www/index.html"
 }
